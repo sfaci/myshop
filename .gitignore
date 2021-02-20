@@ -39,5 +39,5 @@ application.properties
 .DS_Store
 
 # Scripts de maven
-mvnnw
+mvnw
 mvnw.cmd
