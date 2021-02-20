@@ -34,3 +34,10 @@ build/
 
 # Fichero de configuración
 application.properties
+
+# Ficheros Mac
+.DS_Store
+
+# Scripts de maven
+mvnnw
+mvnw.cmd
