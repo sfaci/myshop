@@ -8,4 +8,6 @@ public class Product {
     private String name;
     private LocalDate creationDate;
     private String description;
+
+    private Order order;
 }
